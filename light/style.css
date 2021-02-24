@@ -971,6 +971,7 @@ p {
 p.big-p {
   font-size: 21px;
   line-height: 35px;
+  justify-content: space-evenly;
 }
 
 .caption {
